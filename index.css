@@ -1,7 +1,6 @@
 *{
   margin: 0;
   padding: 0;
-  
 }
 
 section{
@@ -322,7 +321,6 @@ top: 2rem;
 }
 body{
   background-color: #eee;
-  overflow-x: hidden;
 }
 .text-center{
   height: 20rem;
@@ -508,9 +506,7 @@ left: 46rem;
   background-color: black;
   position: relative;
   top: 3rem;
-  height: 70vh;
-  width: 140vw;
-  right:45rem;
+  height: 50vh;
 }
 .company{
   margin-left: 3rem;
